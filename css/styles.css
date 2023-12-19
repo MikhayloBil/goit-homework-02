@@ -8,13 +8,12 @@ ul {
   list-style: none;
 }
 .header-logo {
-  color: var(--IRIS, #4d5ae5);
+  color: var(--NAVY-BLUE, #2e2f42);
   font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.16; /* 116.667% */
   letter-spacing: 0.03em;
-  text-transform: uppercase;
 }
 .header-menu-link {
   color: var(--NAVY-BLUE, #2e2f42);

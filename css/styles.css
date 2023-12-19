@@ -15,6 +15,9 @@ ul {
   line-height: 1.16; /* 116.667% */
   letter-spacing: 0.03em;
 }
+.header-logo-detalik {
+  color: var(--IRIS, #4d5ae5);
+}
 .header-menu-link {
   color: var(--NAVY-BLUE, #2e2f42);
   /* Body Medium */

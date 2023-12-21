@@ -32,14 +32,8 @@ ul {
   letter-spacing: 0.02em;
 }
 
-.header-menu-link:hover {
-  background: var(--IRIS, #4d5ae5);
-}
-
-.header-menu-link:focusr {
-  background: var(--IRIS, #4d5ae5);
-}
-
+.header-menu-link:hover,
+.header-menu-link:focus,
 .header-menu-link:active {
   background: var(--IRIS, #4d5ae5);
 }
@@ -54,7 +48,7 @@ ul {
   letter-spacing: 0.02em;
 }
 
-h1 {
+.hero-title {
   color: var(--WHITE, #fff);
   text-align: center;
   /* Header 1 */
@@ -64,7 +58,7 @@ h1 {
   letter-spacing: 0.02em;
 }
 
-.section-1-button {
+.hero-button {
   color: var(--WHITE, #fff);
   /* Button Text */
   font-size: 16px;

@@ -14,7 +14,7 @@ ul {
 
 /* -------------header----------- */
 
-.header-logo-link {
+.header-logo-list {
   color: var(--IRIS, #4d5ae5);
   font-family: "Raleway", sans-serif;
   font-size: 18px;

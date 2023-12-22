@@ -56,7 +56,13 @@ ul {
 
 .header-menu-link:hover,
 .header-menu-link:focus {
-  background: var(--IRIS, #404bbf);
+  color: #404bbf;
+}
+
+.header-address-link,
+.header-address-link:hover {
+  color: #404bbf;
+  font-style: normal;
 }
 
 .header-address-link {

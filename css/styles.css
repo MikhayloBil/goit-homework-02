@@ -60,6 +60,7 @@ ul {
 }
 
 .header-address-link:active,
+.header-address-link:hover,
 .header-address-link:hover {
   color: #404bbf;
 }

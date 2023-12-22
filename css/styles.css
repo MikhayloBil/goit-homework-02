@@ -57,7 +57,7 @@ ul {
 .header-menu-link:hover,
 .header-menu-link:focus,
 .header-menu-link:active {
-  background: var(--IRIS, #4d5ae5);
+  background: var(--IRIS, #404bbf);
 }
 
 .header-address-link {

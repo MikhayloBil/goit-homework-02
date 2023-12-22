@@ -88,8 +88,8 @@ ul {
   letter-spacing: 0.02em;
 }
 
-.header-button:hover,
-.header-button:focus {
+.hero-button:hover,
+.hero-button:focus {
   background-color: #404bbf;
 }
 

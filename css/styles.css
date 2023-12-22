@@ -14,7 +14,7 @@ ul {
 
 /* -------------header----------- */
 
-.header-logo {
+.header-logo-link {
   color: var(--IRIS, #4d5ae5);
   font-family: "Raleway", sans-serif;
   font-size: 18px;
@@ -23,9 +23,9 @@ ul {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.header-logo:active,
-.header-logo:hover,
-.header-logo:focus {
+.header-logo-link:active,
+.header-logo-link:hover,
+.header-logo-link:focus {
   background: var(--IRIS, #404bbf);
 }
 

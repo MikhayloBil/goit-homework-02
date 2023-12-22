@@ -89,7 +89,7 @@ ul {
 
 .header-button:hover,
 .header-button:focus {
-  background: var(--IRIS, #404bbf);
+  background-color: #404bbf;
 }
 
 .hero-button {

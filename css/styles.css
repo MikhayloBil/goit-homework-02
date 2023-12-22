@@ -59,10 +59,9 @@ ul {
   color: #404bbf;
 }
 
-.header-address-link,
+.header-address-link:active,
 .header-address-link:hover {
   color: #404bbf;
-  font-style: normal;
 }
 
 .header-address-link {

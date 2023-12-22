@@ -85,6 +85,7 @@ ul {
 
 .hero-button {
   color: var(--WHITE, #fff);
+  background-color: #4D5AE5
   font-size: 16px;
   font-family: inherit;
   font-weight: 500;

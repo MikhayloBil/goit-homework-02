@@ -160,6 +160,7 @@ ul {
 /* ----------portfolio----------- */
 
 .portfolio {
+  background-color: #f4f4fd;
 }
 .portfolio-title {
   color: var(--NAVY-BLUE, #2e2f42);

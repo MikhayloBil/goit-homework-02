@@ -55,8 +55,7 @@ ul {
 }
 
 .header-menu-link:hover,
-.header-menu-link:focus,
-.header-menu-link:active {
+.header-menu-link:focus {
   background: var(--IRIS, #404bbf);
 }
 
@@ -83,6 +82,11 @@ ul {
   letter-spacing: 0.02em;
 }
 
+.header-button:hover,
+.header-button:focus {
+  background: var(--IRIS, #404bbf);
+}
+
 .hero-button {
   color: var(--WHITE, #fff);
   background-color: #4D5AE5
@@ -91,6 +95,7 @@ ul {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  cursor: pointer;
 }
 /* ------------------------------ */
 /* -----------features----------- */
@@ -116,6 +121,7 @@ ul {
 }
 .team-title {
   color: var(--NAVY-BLUE, #2e2f42);
+  background-color: #F4F4FD
   text-align: center;
   font-size: 36px;
   font-weight: 700;
@@ -124,6 +130,7 @@ ul {
   text-transform: capitalize;
 }
 .team-list {
+  background-color: #FFFFFF;
 }
 .team-item {
 }
@@ -185,18 +192,18 @@ ul {
 }
 
 .footer-link {
-  color: var(--CLOUD, #f4f4fd);
-  font-family: Raleway;
+  color: var(--IRIS, #4d5ae5);  
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
 .footer-logo-detalik {
-  color: var(--IRIS, #4d5ae5);
+   color: var(--NAVY-BLUE, #2e2f42);
 }
 
 .taam-text {

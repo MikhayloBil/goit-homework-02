@@ -126,6 +126,7 @@ ul {
 .team {
   background-color: #f4f4fd;
 }
+
 .team-title {
   color: var(--NAVY-BLUE, #2e2f42);
   background-color: #f4f4fd;
@@ -136,8 +137,8 @@ ul {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
+
 .team-list {
-  background-color: #ffffff;
 }
 .team-item {
   background-color: #ffffff;
@@ -155,6 +156,7 @@ ul {
 }
 .team-text {
   color: var(--SLATE, #434455);
+  background-color: #ffffff;
   text-align: center;
   font-size: 16px;
   line-height: 1.5;

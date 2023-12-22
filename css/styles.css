@@ -23,6 +23,7 @@ ul {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
+.header-logo:active,
 .header-logo:hover,
 .header-logo:focus {
   background: var(--IRIS, #404bbf);
